@@ -1,0 +1,18 @@
+.letra{
+    font-size: 50px;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    margin-right: 50%;
+    margin: 0;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: Geneva;
+}
+
+.divletra{
+    align-items: center;
+    height: 30em;
+    position: relative;
+    background-color: #658042;
+}
